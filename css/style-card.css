@@ -31,6 +31,7 @@ html:focus-within {
     padding-top: 40px;
     overflow: hidden;
     padding-bottom: 12px;
+flex-wrap: wrap;
 }
 .products-section-2{
     display: flex;
@@ -43,6 +44,7 @@ html:focus-within {
     overflow: hidden;
     padding-bottom: 17px;
     padding-top: 12px;
+flex-wrap: wrap;
 }
 .products-section-3{
     display: flex;
@@ -55,6 +57,7 @@ html:focus-within {
     padding-bottom: 23px;
     padding-top: 12px;
     overflow: hidden;
+flex-wrap: wrap;
 }
 .container{
     width: 338px;
